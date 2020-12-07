@@ -1,0 +1,10 @@
+C:\Users\асер\source\repos\Деньги\Деньги\bin\Debug\Деньги.exe.config
+C:\Users\асер\source\repos\Деньги\Деньги\bin\Debug\Деньги.exe
+C:\Users\асер\source\repos\Деньги\Деньги\bin\Debug\Деньги.pdb
+C:\Users\асер\source\repos\Деньги\Деньги\obj\Debug\Деньги.csprojAssemblyReference.cache
+C:\Users\асер\source\repos\Деньги\Деньги\obj\Debug\Деньги.Properties.Resources.resources
+C:\Users\асер\source\repos\Деньги\Деньги\obj\Debug\Деньги.csproj.GenerateResource.cache
+C:\Users\асер\source\repos\Деньги\Деньги\obj\Debug\Деньги.csproj.CoreCompileInputs.cache
+C:\Users\асер\source\repos\Деньги\Деньги\obj\Debug\Деньги.exe
+C:\Users\асер\source\repos\Деньги\Деньги\obj\Debug\Деньги.pdb
+C:\Users\асер\source\repos\Деньги\Деньги\obj\Debug\Деньги.Form1.resources

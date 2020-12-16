@@ -139,8 +139,7 @@ def send_text(message):
                 grade = int(userr.readline())
         bot.send_message(message.chat.id,'Ваша оценка: '+str(grade),reply_markup=markup_main)
         bot.send_message(393206440, message.chat.id)
-        bot.send_message(393206440, str(message.chat.first_name) + ' ' + str(message.chat.last_name) + str(grade))
-        #bot.send_message(420851241, 'Артур иди нахуй')
+        bot.send_message(393206440, str(message.chat.first_name) + ' ' + str(message.chat.last_name) + str(grade)
         #bot.send_message(285884276, str(name) + str(grade), reply_markup=markup_strt)
    except FileNotFoundError:
        bot.send_message(message.chat.id,'Произошла ошибка,перезапустите бота,нажав на кнопку',reply_markup=markup_strt)
